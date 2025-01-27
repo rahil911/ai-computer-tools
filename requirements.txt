@@ -1,0 +1,9 @@
+pyautogui>=0.9.54
+anthropic>=0.44.0
+pydantic>=2.10.5
+httpx>=0.28.1
+typing-extensions>=4.10.0
+Pillow>=10.2.0
+pyscreeze>=0.1.30
+python-tk>=3.10.0
+mss>=9.0.1 
